@@ -9,7 +9,7 @@ module.exports = [
     "name": "Venusaur",
     "pokedex": "003",
     "evolves_from": "Ivysaur",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/1200px-003Venusaur.png"
+    "image": "https://img.pokemondb.net/artwork/venusaur.jpg"
   },
   {
     "name": "Charmander",
